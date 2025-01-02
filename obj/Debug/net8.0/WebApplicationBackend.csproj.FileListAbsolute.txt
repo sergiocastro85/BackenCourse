@@ -30,3 +30,4 @@ C:\Users\acer\Documents\SERGIO PERSONAL\DESARROLLO\FamilyDiary\WebApplicationBac
 C:\Users\acer\Documents\SERGIO PERSONAL\DESARROLLO\FamilyDiary\WebApplicationBackend\WebApplicationBackend\obj\Debug\net8.0\WebApplicationBackend.pdb
 C:\Users\acer\Documents\SERGIO PERSONAL\DESARROLLO\FamilyDiary\WebApplicationBackend\WebApplicationBackend\obj\Debug\net8.0\WebApplicationBackend.genruntimeconfig.cache
 C:\Users\acer\Documents\SERGIO PERSONAL\DESARROLLO\FamilyDiary\WebApplicationBackend\WebApplicationBackend\obj\Debug\net8.0\ref\WebApplicationBackend.dll
+C:\Users\acer\Documents\SERGIO PERSONAL\DESARROLLO\FamilyDiary\WebApplicationBackend\WebApplicationBackend\obj\Debug\net8.0\WebApplicationBackend.sourcelink.json
